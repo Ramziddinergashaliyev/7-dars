@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+a{
+  color: inherit;
+}
+
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container__item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  color: #B45F4D;
+}
+.abs{
+  text-align: center;
+  background: brown;
+  color: white;
+  padding: 10px 0px;
+}
+
+
+.nav__list__item__about {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__list__right__freme {
+  margin-right: 10px;
+  margin-left: 67px;
+  /* width: 100%; */
+}
+
+.section__dau__img {
+  width: 100%;
+  height: 435px;
+}
+
+.card__shop {
+  width: 100%;
+  height: 304px;
+  background-color: #A9AE8D;
+  text-align: center;
+}
+.card__shop__text {
+  color: #F6F4EC;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28.8px; 
+  padding: 69px 399px 15px;
+}
+.card__shop__text__meet {
+  color: #F6F4EC;
+  font-family: Roboto;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  padding-bottom: 37px;
+  line-height: 64px; 
+}
+.card__shop__btn {
+  width: 128px;
+  height: 48px;
+  background-color: #B45F4D;
+}
+
+.shopping {
+  background-color: rgb(250, 245, 245) ;
+}
+
+.shopping__market {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 70px;
+  width: 100%;
+  height: 702px;
+}
+
+.shopping__text {
+  color: #B45F4D;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 39.2px; 
+  padding: 39px 42% 64px ;
+}
+
+.card-text {
+  width: 382.657px;
+  color: #B45F4D;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 35px;
+}
+
+.card-text1 {
+  width: 340px;
+  height: 66px;
+  color: #B45F4D;
+  font-size: 16px;
+  padding-top: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.shop-sets {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  text-align: center  ;
+}
+
+.shop-sets__img {
+    width: 1200px;
+    height: 407.547px;
+    padding: 50px 20px 6px;
+}
+
+.meet {
+  background: #F1D3B9;
+}
+.meet .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 10px;
+}
+.meet-right {
+  width: 500px;
+  height: 750px;
+  background-color: white;
+}
+
+.meet-right__text {
+  width: 466px;
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.4px;
+  padding: 22px 42px 20px;
+}
+
+.meet-right__text-top {
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 7.6px;
+  padding: 134px 182px 41px;
+}
+
+.meet-right__text-bottom{
+  color: #B45F4D;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25.6px;
+  padding: 41px 379px 134px 41px;
+}
+
+.follow {
+  padding: 20px 10px 39.594px 10px;
+  flex-direction: column;
+  align-items: center;
+  gap: 43.156px;
+  background-color: white;
+  display: flex;
+  width: 100%;
+}
+
+.follow-text {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 23px;
+}
+
+.card-bottom__img {
+  height: 300px;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
